@@ -1,4 +1,4 @@
-# RurickDev
+# AstridDev
 
 Hello everyone, I'm an passionate developer that loves to lear new things
 discover new technologies. :heart: 👨‍💻
